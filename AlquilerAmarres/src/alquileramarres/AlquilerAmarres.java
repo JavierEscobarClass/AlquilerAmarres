@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author cata7
+ * @author javierleo7
  */
 public class AlquilerAmarres {
 
